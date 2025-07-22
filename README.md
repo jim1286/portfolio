@@ -98,4 +98,4 @@ src/
 
 ---
 
-Made with ❤️ by 황지민
+Made by 황지민
