@@ -175,7 +175,7 @@ const LinkButton = styled(Button)`
 const projects = [
   {
     id: 1,
-    title: "Yajalal - KBO 야구 통계 앱",
+    title: "야잘알 - 야구 잘 알려준다",
     description:
       "한국 프로야구(KBO) 선수들의 통계를 직관적이고 아름답게 보여주는 Flutter 모바일 애플리케이션입니다. 선수별/팀별 상세 통계, 시즌별/월별 성적 추이 차트, 검색 및 필터 기능을 제공합니다.",
     technologies: [
